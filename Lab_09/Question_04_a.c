@@ -3,7 +3,7 @@
 void main(){
 
         char s[20];
-        int i,N;
+        int i,N,j;
         printf("Enter the string : ");
 //      scanf("%d",&N);
         i=0;
@@ -17,6 +17,9 @@ void main(){
                 }
 //      s[++i]='\0';
 //        for
-        printf("%s\n",s);
-
+//         printf("%s\n",s);
+        for(j=0;j<i;j++){
+                printf("%c",s[j]);
+                        }
+        printf("\n");
 }
