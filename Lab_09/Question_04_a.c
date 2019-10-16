@@ -1,10 +1,4 @@
 #include<stdio.h>
-void occ(char list[],int n){
-
-
-
-}
-
 
 void main(){
 
@@ -22,9 +16,7 @@ void main(){
 
                 }
 //      s[++i]='\0';
-        for
+//        for
         printf("%s\n",s);
-
-
 
 }
