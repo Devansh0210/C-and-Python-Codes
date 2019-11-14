@@ -1,10 +1,10 @@
 //***************************************************************
 //******* PLEASE FILL THESE DETAILS AND COMMENT THE LINES *******
 //** UNLESS YOU COMMENT THESE LINES, THE CODE WILL NOT COMPILE **
- Name:
- Id no.:
- Terminal no.:
- Lab no.: 
+//  Name:
+//  Id no.:
+//  Terminal no.:
+//  Lab no.: 
 //***************************************************************
 //***************************************************************
 
